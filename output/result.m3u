@@ -1,27 +1,28 @@
+央视频道,#genre#
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanming.com/tv/CCTV1.png", CCTV-1
 http://[2409:8087:1a01:df::4009]/TVOD/88888888/224/3221225816/main.m3u8$IPv6
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanming.com/tv/CCTV1.png", CCTV-1
 http://[2409:8087:1a01:df::4060]/TVOD/88888888/224/3221226119/main.m3u8$IPv6
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanming.com/tv/CCTV1.png", CCTV-1
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226153/index.m3u8$IPv6
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanming.com/tv/CCTV1.png", CCTV-1
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$IPv6
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanming.com/tv/CCTV1.png", CCTV-1
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010144/$IPv6
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanming.com/tv/CCTV1.png", CCTV-1
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8$IPv6
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanming.com/tv/CCTV1.png", CCTV-1
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010144/$IPv6
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanming.com/tv/CCTV1.png", CCTV-1
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$IPv6
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanming.com/tv/CCTV1.png", CCTV-1
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226733/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanming.com/tv/CCTV1.png", CCTV-1
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265001/1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanming.com/tv/CCTV1.png", CCTV-1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanming.com/tv/CCTV1.png", CCTV-1
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/index.m3u8
