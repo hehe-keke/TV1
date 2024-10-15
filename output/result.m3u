@@ -1,10 +1,12 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="少儿频道",山东少儿
-http://124.129.78.38:3333/rtp/239.253.254.25:8000$1920x1080
-#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="少儿频道",山东少儿
 http://39.77.1.175:8989/rtp/239.253.254.25:8000$1920x1080
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="少儿频道",山东少儿
-https://stream1.freetv.fun/shan-dong-shao-er-4.m3u8
+http://124.129.78.38:3333/rtp/239.253.254.25:8000$1920x1080
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="少儿频道",山东少儿
+http://112.226.139.185:9999/rtp/239.253.254.25:8000$1920x1080
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="少儿频道",山东少儿
+https://stream1.freetv.fun/shan-dong-shao-er-5.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="少儿频道",山东少儿
 http://livealone302.iqilu.com/iqilu/sepd.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="少儿频道",山东少儿
@@ -12,45 +14,59 @@ http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="少儿频道",山东少儿
 http://221.0.78.198:1681/hls/10227/index.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="少儿频道",山东少儿
-https://stream1.freetv.fun/shan-dong-shao-er-5.m3u8
-#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="少儿频道",山东少儿
 https://stream1.freetv.fun/shan-dong-shao-er-2.m3u8
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="少儿频道",山东少儿
+https://stream1.freetv.fun/shan-dong-shao-er-4.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
-http://36.25.233.150:4022/rtp/233.50.201.138:5140$1920x1080
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
-http://183.150.161.118:9999/rtp/233.50.201.138:5140$1920x1080
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
-http://115.205.84.167:9999/rtp/233.50.201.138:5140$1920x1080
+http://125.109.62.72:9999/rtp/233.50.201.138:5140$1920x1080
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 http://183.141.216.122:9999/rtp/233.50.201.138:5140$1920x1080
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
-http://183.133.105.27:8899/rtp/233.50.201.138:5140$1920x1080
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 http://101.68.81.44:9999/rtp/233.50.201.138:5140$1920x1080
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
-http://115.202.108.156:8866/rtp/233.50.201.138:5140$1920x1080
+http://183.147.255.92:8888/rtp/233.50.201.138:5140$1920x1080
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+http://183.147.163.213:8888/rtp/233.50.201.138:5140$1920x1080
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+http://183.130.6.35:8889/rtp/233.50.201.138:5140$1920x1080
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+http://220.184.69.32:4022/rtp/233.50.201.138:5140$1920x1080
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+http://183.141.202.95:8888/rtp/233.50.201.138:5140$1920x1080
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+http://183.128.234.245:4022/rtp/233.50.201.138:5140$1920x1080
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+http://125.126.70.160:9999/rtp/233.50.201.138:5140$1920x1080
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+http://125.126.206.22:9999/rtp/233.50.201.138:5140$1920x1080
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 http://183.151.27.193:4022/rtp/233.50.201.138:5140$1920x1080
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 http://183.141.3.6:8888/rtp/233.50.201.138:5140$1920x1080
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+http://183.133.105.27:8899/rtp/233.50.201.138:5140$1920x1080
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+http://60.189.61.82:9999/rtp/233.50.201.138:5140$1920x1080
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 http://183.147.171.84:8888/rtp/233.50.201.138:5140$1920x1080
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
-http://183.147.255.92:8888/rtp/233.50.201.138:5140$1920x1080
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
-http://183.130.6.35:8889/rtp/233.50.201.138:5140$1920x1080
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 https://stream1.freetv.fun/zhe-jiang-shao-er-7.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 https://stream1.freetv.fun/zhe-jiang-shao-er-8.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 https://stream1.freetv.fun/zhe-jiang-shao-er-1.m3u8
 #EXTINF:-1 tvg-name="福建少儿频道" tvg-logo="https://live.fanmingming.com/tv/福建少儿频道.png" group-title="少儿频道",福建少儿频道
-http://php.jdshipin.com:8880/fujian.php?id=8$1920x1080
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.9:8048$1920x1080
 #EXTINF:-1 tvg-name="福建少儿频道" tvg-logo="https://live.fanmingming.com/tv/福建少儿频道.png" group-title="少儿频道",福建少儿频道
-http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
+http://121.205.69.190:8848/rtp/239.61.2.9:8048$1920x1080
 #EXTINF:-1 tvg-name="福建少儿频道" tvg-logo="https://live.fanmingming.com/tv/福建少儿频道.png" group-title="少儿频道",福建少儿频道
 http://117.27.190.42:9998/tsfile/live/23290_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="福建少儿频道" tvg-logo="https://live.fanmingming.com/tv/福建少儿频道.png" group-title="少儿频道",福建少儿频道
@@ -63,14 +79,18 @@ https://stream1.freetv.fun/fu-jian-shao-er-3.m3u8
 https://stream1.freetv.fun/fu-jian-shao-er-4.ctv
 #EXTINF:-1 tvg-name="福建少儿频道" tvg-logo="https://live.fanmingming.com/tv/福建少儿频道.png" group-title="少儿频道",福建少儿频道
 https://stream1.freetv.fun/fu-jian-shao-er-5.ctv
-#EXTINF:-1 tvg-name="云南少儿频道" tvg-logo="https://live.fanmingming.com/tv/云南少儿频道.png" group-title="少儿频道",云南少儿频道
-http://enlen.vip:4022/rtp/239.200.200.32:8864$1920x1080
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="少儿频道",河北少儿科教
+http://60.7.56.33:4000/rtp/239.253.92.174:6004$1920x1080
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="少儿频道",河北少儿科教
+http://111.227.202.212:4022/rtp/239.254.200.21:6000$1920x1080
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="少儿频道",河北少儿科教
 http://61.55.46.35:4022/rtp/239.253.92.174:6004$1920x1080
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="少儿频道",河北少儿科教
-http://121.29.111.83:8888/rtp/239.253.92.174:6004$1920x1080
-#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="少儿频道",河北少儿科教
 http://27.184.66.142:1024/rtp/239.254.200.21:6000$1920x1080
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="少儿频道",河北少儿科教
+http://121.21.84.3:8888/rtp/239.253.92.174:6004$1920x1080
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="少儿频道",河北少儿科教
+http://120.6.7.108:4022/rtp/239.253.92.174:6004$1920x1080
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="少儿频道",河北少儿科教
 rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d$960x540
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="少儿频道",河北少儿科教
@@ -86,32 +106,10 @@ https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-6.ctv
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="少儿频道",河北少儿科教
 http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c$960x540
 #EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://live.fanmingming.com/tv/海绵宝宝.png" group-title="少儿频道",海绵宝宝
-http://diyp.zxxoo.work/huya/11352919$720x544
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://live.fanmingming.com/tv/海绵宝宝.png" group-title="少儿频道",海绵宝宝
-http://159.75.85.63:35455/huya/11352919?cdn=hwcdn$720x544
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://live.fanmingming.com/tv/海绵宝宝.png" group-title="少儿频道",海绵宝宝
-http://cfss.cc/cdn/hy/11352919.flv$720x544
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://live.fanmingming.com/tv/海绵宝宝.png" group-title="少儿频道",海绵宝宝
-https://hw.flv.huya.com/src/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.flv$720x544
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://live.fanmingming.com/tv/海绵宝宝.png" group-title="少儿频道",海绵宝宝
-http://159.75.85.63:35455/huya/11352919?cdn=hscdn$720x544
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://live.fanmingming.com/tv/海绵宝宝.png" group-title="少儿频道",海绵宝宝
-http://159.75.85.63:35455/huya/11352919?cdn=txcdn$720x544
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://live.fanmingming.com/tv/猫和老鼠.png" group-title="少儿频道",猫和老鼠
-http://live.iill.top/huya.php?id=11352879$640x464
-#EXTINF:-1 tvg-name="茶啊二中「动画」" tvg-logo="https://live.fanmingming.com/tv/茶啊二中「动画」.png" group-title="少儿频道",茶啊二中「动画」
-http://live.iill.top/huya.php?id=11213191$640x464
-#EXTINF:-1 tvg-name="航海王「动漫」" tvg-logo="https://live.fanmingming.com/tv/航海王「动漫」.png" group-title="少儿频道",航海王「动漫」
-http://live.iill.top/huya.php?id=16913382$640x464
+http://cfss.cc/cdn/hy/11352919.flv$720x540
 #EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://live.fanmingming.com/tv/中华小当家.png" group-title="少儿频道",中华小当家
 http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://live.fanmingming.com/tv/中华小当家.png" group-title="少儿频道",中华小当家
-http://159.75.85.63:35455/huya/24257300?cdn=hwcdn$720x544
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://live.fanmingming.com/tv/中华小当家.png" group-title="少儿频道",中华小当家
-http://159.75.85.63:35455/huya/24257300?cdn=txcdn$720x544
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://live.fanmingming.com/tv/中华小当家.png" group-title="少儿频道",中华小当家
-http://live.iill.top/huya.php?id=11342413$640x464
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://live.fanmingming.com/tv/中华小当家.png" group-title="少儿频道",中华小当家
-http://cfss.cc/cdn/hy/11342413.flv$720x544
+http://cfss.cc/cdn/hy/11342413.flv$720x540
 #EXTINF:-1 tvg-name="斗破苍穹玄幻剧" tvg-logo="https://live.fanmingming.com/tv/斗破苍穹玄幻剧.png" group-title="少儿频道",斗破苍穹玄幻剧
-https://live.metshop.top/yy/1356051105$1920x1080
+https://live.metshop.top/yy/1356051105$1280x720
