@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-11-27 06:30:23,url
+2024-11-27 18:28:19,url
 📺央视频道,#genre#
 CCTV-1,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://113.218.190.140:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖南酒店源
@@ -1678,6 +1678,7 @@ CN卡通,http://free.xiptv.x10.bz/kudou.php?id=65$订阅源
 七龙珠,https://live.iill.top/huya/11601966$订阅源
 七龙珠,https://live.iill.top/huya/25650806$订阅源
 七龙珠,http://111.67.193.2:35455/huya/11601966$订阅源
+七龙珠,http://120.77.28.4:8648/huya.php?id=11601966$订阅源
 火影忍者,https://live.iill.top/douyu/1997723$订阅源
 火影忍者,http://live.iill.top/douyu.php?id=1997723$订阅源
 海绵宝宝,http://159.75.85.63:35455/huya/11352919?cdn=hwcdn$订阅源|1920x1080
@@ -1685,11 +1686,13 @@ CN卡通,http://free.xiptv.x10.bz/kudou.php?id=65$订阅源
 海绵宝宝,https://hw.flv.huya.com/src/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.flv$订阅源
 海绵宝宝,http://diyp.zxxoo.work/huya/11352919$订阅源
 海绵宝宝,http://111.67.193.2:35455/huya/11352919$订阅源
+海绵宝宝,http://120.77.28.4:8648/huya.php?id=11352919$订阅源
 中华小当家,http://live.iill.top/huya.php?id=11342413$订阅源
 中华小当家,http://mtv.wuzhij.com/huya.php?id=24257300&cdn=txcdn$订阅源
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源
 中华小当家,https://live.iill.top/huya/11342413$订阅源
 中华小当家,http://111.67.193.2:35455/huya/11342413$订阅源
+中华小当家,http://120.77.28.4:8648/huya.php?id=11342413$订阅源
 斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$订阅源
 猫和老鼠,https://live.iill.top/huya/11352879$订阅源
 猫和老鼠,http://live.iill.top/huya.php?id=11352879$订阅源
