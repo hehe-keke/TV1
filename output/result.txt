@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-11-29 06:30:21,url
+2024-11-29 18:27:35,url
 📺央视频道,#genre#
 CCTV-1,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://113.218.190.140:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖南酒店源
@@ -956,6 +956,7 @@ TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源
 纬来体育,http://211.72.65.236:8585/http/61.67.128.137:8081/hls/67/809/ch28.m3u8$订阅源
+纬来体育,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477026.ts$订阅源
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$订阅源
 J2,http://r.jdshipin.com/Nr5jq$订阅源
 J2,http://r.jdshipin.com/ndGgS$订阅源
@@ -968,6 +969,7 @@ Viutv,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8$订阅源
 三立台湾,http://211.72.65.236:8521/.m3u8$订阅源|1920x1080
 三立台湾,http://free.xiptv.x10.bz/kudou.php?id=52$订阅源
 三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8$订阅源
+三立台湾,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477050.ts$订阅源
 无线新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$订阅源|1920x1080
 无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8$订阅源|1920x1080
 无线新闻,http://r.jdshipin.com/CkuBd$订阅源
@@ -979,11 +981,14 @@ Viutv,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8$订阅源
 三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8$订阅源
 三立新闻,http://211.72.65.236:8543/http/61.67.128.137:8081/hls/65/807/ch18.m3u8$订阅源
 三立新闻,http://good.ip/mqlive.m3u8?ip=cp.catvbj.top:55600&id=live1001$订阅源
+三立新闻,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14$订阅源
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$订阅源
 东森综合,http://211.72.65.236:8524/.m3u8$订阅源|1920x1080
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$订阅源
 东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8$订阅源
 东森综合,http://211.72.65.236:8524/http/61.67.128.137:8081/hls/63/805/ch12.m3u8$订阅源
+东森综合,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d$订阅源
+东森综合,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476987.ts$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源
 东森超视,http://211.72.65.236:8525/.m3u8$订阅源
@@ -1307,6 +1312,7 @@ CCTV-5+,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018504/1.m
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源
 纬来体育,http://211.72.65.236:8585/http/61.67.128.137:8081/hls/67/809/ch28.m3u8$订阅源
+纬来体育,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477026.ts$订阅源
 五星体育,http://139.196.151.191:3970/rtp/239.45.3.210:5140$组播源
 五星体育,http://139.196.151.191:6846/rtp/239.45.3.210:5140$组播源
 五星体育,http://139.196.151.191:7549/rtp/239.45.3.210:5140$组播源
@@ -1614,6 +1620,7 @@ JJ斗地主,https://live.iill.top/douyu/488743$订阅源
 宝宝动画,http://171.213.140.187:1283/rtp/239.93.0.147:5140$四川电信组播源
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源|1920x1080
 CN卡通,http://free.xiptv.x10.bz/kudou.php?id=65$订阅源
+CN卡通,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476247.ts$订阅源
 优漫卡通,http://42.48.50.232:9002/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$湖南酒店源
 优漫卡通,http://113.218.190.140:8081/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$湖南酒店源
 优漫卡通,http://122.9.151.210:3672/rtp/238.255.2.57:5999$贵州电信组播源
