@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-12-01 06:30:12" tvg-logo="https://live.fanmingming.com/tv/2024-12-01 06:30:12.png" group-title="更新时间",2024-12-01 06:30:12
+#EXTINF:-1 tvg-name="2024-12-01 18:28:30" tvg-logo="https://live.fanmingming.com/tv/2024-12-01 18:28:30.png" group-title="更新时间",2024-12-01 18:28:30
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -2245,6 +2245,10 @@ http://wouu.net:9977/udp/239.93.0.156:2193$订阅源
 http://171.108.239.79:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="🎬电影频道",星空卫视
 http://222.210.153.89:8888/udp/239.93.0.156:2193$订阅源
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="🎬电影频道",星空卫视
+http://118.113.157.64:4022/udp/239.93.1.10:2193$订阅源
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="🎬电影频道",星空卫视
+http://171.214.202.208:4000/udp/239.93.1.10:2193$订阅源
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="🎬电影频道",东森电影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859$订阅源|1920x1080
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="🎬电影频道",东森电影
