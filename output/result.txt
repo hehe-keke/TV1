@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-12 06:31:20,url
+2024-12-12 18:28:07,url
 📺央视频道,#genre#
 CCTV-1,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://113.218.190.140:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖南酒店源
@@ -942,6 +942,7 @@ CETV4,http://118.122.103.240:2005/rtp/239.93.0.50:5140$四川电信组播源
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8$订阅源|IPv6
 凤凰卫视,http://58.215.231.60/live2.rxip.sc96655.com/live/test1_4000.m3u8$订阅源
 凤凰卫视,http://171.213.137.173:8088/udp/239.93.1.9:2192$订阅源
+凤凰卫视,http://114.105.185.143:9901/tsfile/live/1063_1.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源|1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源|1920x1080
@@ -1941,6 +1942,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/8888888
 封神榜,http://cdn.jdshipin.com:8880/huya.php?id=23749096$订阅源
 上海滩,https://live.metshop.top/yy/1382745184$订阅源
 上海滩,http://11.xmyxc.cn/api/php/yy.php?id=1382745184$订阅源
+上海滩,http://120.77.28.4:8648/yy.php?id=1382745184$订阅源
 射雕英雄传,http://diyp.zxxoo.work/huya/23824164$订阅源
 射雕英雄传,https://live.metshop.top/yy/40959929$订阅源
 射雕英雄传,https://lunbo.freetv.top/yy/1354210357$订阅源
