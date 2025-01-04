@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-01-04 06:19:43" tvg-logo="https://live.fanmingming.com/tv/2025-01-04 06:19:43.png" group-title="更新时间",2025-01-04 06:19:43
+#EXTINF:-1 tvg-name="2025-01-04 18:17:00" tvg-logo="https://live.fanmingming.com/tv/2025-01-04 18:17:00.png" group-title="更新时间",2025-01-04 18:17:00
 url
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="☘️山东频道",山东少儿
 http://221.0.78.198:1681/hls/10227/index.m3u8$订阅源
@@ -16,15 +16,9 @@ http://221.0.78.198:1681/hls/10221/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="☘️山东频道",山东农科
 http://221.0.78.198:1681/hls/10223/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="☘️山东频道",山东齐鲁
-http://222.134.245.16:9901/tsfile/live/1001_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="☘️山东频道",山东齐鲁
 http://221.0.78.198:1681/hls/10225/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="☘️山东频道",山东生活
 http://221.0.78.198:1681/hls/10226/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="☘️山东频道",山东体育
-http://222.134.245.16:9901/tsfile/live/1006_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="☘️山东频道",山东体育
-http://222.134.245.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="☘️山东频道",山东体育
 http://221.0.78.198:1681/hls/10224/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="☘️山东频道",山东综艺
